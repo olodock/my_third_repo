@@ -20,3 +20,5 @@ The first program creates static overlapping polygon artwork; the second animate
 
 Only submit this student project folder to a **public GitHub repository** and submit the repository URL.
 Do not include instructor solutions.
+
+WILL ADD VDO LATER!!!!
